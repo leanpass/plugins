@@ -16,6 +16,4 @@ def my_op_forward(x):
     # Implement forward pass using numpy
     return np.maximum(0, x)
 
-# (If LeanPass has a specific way to attach backward functions, do it here)
-# e.g., my_op_forward.backward = my_op_backward
-
+# thats it, just open a PR and wait for the CI to merge it!
