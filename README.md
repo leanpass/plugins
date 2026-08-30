@@ -18,6 +18,9 @@ A central repository for community-contributed plugins for LeanPass.
 ## Credits / Plugin Registry
 
 <!-- REGISTRY_START -->
-*Registry will be auto-generated here by CI.*
+| Plugin | Author | Description |
+|---|---|---|
+| `mish` | [Test Contributor](https://github.com/testcontrib) | Mish activation function: x * tanh(softplus(x)). |
+
 <!-- REGISTRY_END -->
 

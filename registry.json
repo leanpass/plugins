@@ -1,0 +1,9 @@
+[
+  {
+    "name": "mish",
+    "author": "Test Contributor",
+    "github_username": "testcontrib",
+    "description": "Mish activation function: x * tanh(softplus(x)).",
+    "file": "mish.py"
+  }
+]
